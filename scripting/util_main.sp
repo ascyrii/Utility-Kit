@@ -10,7 +10,7 @@ new g_Modules[Modules]
 public Plugin:myinfo =
 {
 	name = "Utility Kit",
-	author = "Sidezz",
+	author = "Ascyrii",
 	description = "A large set of commands and useful stuffs.",
 	version = "0.65",
 	url = "http://www.coldcommunity.com"
