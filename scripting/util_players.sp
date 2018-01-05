@@ -10,7 +10,7 @@ new bool:g_HideEnemy[MAXPLAYERS + 1];
 public Plugin:myinfo =
 {
 	name = "Utility Kit - Players Module",
-	author = "Sidezz",
+	author = "Ascyrii",
 	description = "A large set of commands and useful stuffs.",
 	version = "0.65",
 	url = "http://www.coldcommunity.com"
